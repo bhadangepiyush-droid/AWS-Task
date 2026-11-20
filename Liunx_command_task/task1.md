@@ -139,17 +139,6 @@ ls                 # empty1.log empty2.log empty3.log empty4.log emtpy5.log
 - The difference between `cp` (duplicate) and `mv` (relocate).
 - `rmdir` removes only empty directories.
 
-## Screenshots
-
-The task was documented with six terminal screenshots, in order:
-
-1. SSH login and the empty home directory
-2. Creating `p1`, `p2`, `p3`
-3. Entering `p3`
-4. Creating the five `.log` files
-5. Creating, removing and copying into backup directories
-6. Moving files from `backup1` to `backup2`
-
 ---
 ## Author
 
